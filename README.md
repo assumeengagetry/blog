@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img width="800" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Mindstream AI Blog
 
 > 一个基于 React + Vite 的 AI 博客平台，支持 Gemini API 智能内容生成，支持本地开发与 GitHub Actions 自动化部署。
